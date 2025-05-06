@@ -13,5 +13,4 @@ The objective of this competition is to develop a Grammar Scoring Engine for spo
 -    *The dataset is private, and held by SHL*
 
 # Notebooks
-- Inference: SHL_assessment_main.ipynb
-- Finetuning: SHL_assessment_finetune.ipynb
+- Finetuning and Inference: SHL_assessment_main.ipynb
