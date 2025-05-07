@@ -1,7 +1,7 @@
 # Audio_Grammar_Scoring_Engine
 Grammar Scoring Engine for spoken data samples.
 Approach:
-![image](https://github.com/user-attachments/assets/5d090f94-6075-439c-95d8-288519b62681)
+![image](https://github.com/user-attachments/assets/bea80217-0772-4bc7-b5fa-65f31c833292)
 
 
 # Overview
